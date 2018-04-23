@@ -7,3 +7,9 @@ if True is False:
 
 def solution(*args, **kwargs):
     return 20
+
+
+def user_reg(username, password):
+    p = password
+    # some logic
+    return True

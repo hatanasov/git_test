@@ -7,3 +7,7 @@ if True is False:
 
 def solution(*args, **kwargs):
     return 20
+
+
+def payment(amount):
+    return amount += 20

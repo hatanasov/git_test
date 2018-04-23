@@ -3,3 +3,7 @@ for i in range(10):
 
 if True is False:
     print("It will newer print that.")
+
+
+def solution(*args, **kwargs):
+    return 20

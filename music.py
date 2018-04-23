@@ -13,3 +13,7 @@ def user_reg(username, password):
     p = password
     # some logic
     return True
+
+
+def payment(amount):
+    return amount += 20
